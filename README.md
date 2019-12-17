@@ -4,8 +4,8 @@ A Python script to show where IP addresses are coming from by plotting them on a
 
 ## Usage
 
-Register in [IPGeoLocation.io](https://ipgeolocation.io) and get your API-KEY.  
-Place your API-KEY in code.
+* Register in [IPGeoLocation.io](https://ipgeolocation.io) and get your API-KEY
+* Place your API-KEY in code
 
 ```
 python3 -m pip install -r requirements.txt
