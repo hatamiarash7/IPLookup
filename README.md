@@ -16,7 +16,6 @@ python3 main.py
 
 ```
 {
-    "_id": "5df93aed9cff3a156575e7e5",
     "ip": "46.209.226.153",
     "continent_code": "AS",
     "continent_name": "Asia",
