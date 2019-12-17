@@ -1,4 +1,4 @@
-# PyGeoIpMap
+# Bulk IP Lookup
 
 A Python script to show where IP addresses are coming from by plotting them on a World map. Now compatible with Python3.
 
