@@ -1,6 +1,6 @@
 # Bulk IP Lookup
 
-A Python script to show all IP address's data and save all of them in a MongoDB collection. Compatible with Python3.
+A Python script to get IP address's data and save all of them in a MongoDB collection. Compatible with Python3.
 
 ## Usage
 
