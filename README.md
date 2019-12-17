@@ -1,6 +1,6 @@
 # Bulk IP Lookup
 
-A Python script to show where IP addresses are coming from by plotting them on a World map. Now compatible with Python3.
+A Python script to show all IP address's data and save all of them in a MongoDB collection. Compatible with Python3.
 
 ## Usage
 
